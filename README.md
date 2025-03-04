@@ -14,9 +14,9 @@
 ---
 
 
-- [Practica 1]()
-- [Practica 2]()
-- [Practica 3 A]()
-- [Practica 3 B]()
+- [Practica 1](/practicas_viejas/practica_1.md)
+- [Practica 2](/practicas_viejas/practica_2.md)
+- [Practica 3 A](/practicas_viejas/practica_3A.md)
+- [Practica 3 B](/practicas_viejas/practica_3B.md)
 
 ---
