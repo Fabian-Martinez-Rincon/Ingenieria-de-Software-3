@@ -15,7 +15,11 @@ Indice
     - [Características](#caracteristicas)
     - [Responsable de Proyecto](#responsable-de-proyecto)
     - [Tareas del Responsable de Proyecto](#tareas-del-responsable-de-proyecto)
-
+    - [Parámetros de un Proyecto](#parámetros-de-un-proyecto)
+        - [Alcance](#alcance)
+        - [Calidad](#calidad)
+        - [Recursos](#recursos)
+    - [Triángulo de Alcance](#triángulo-de-alcance)
 
 
 
@@ -121,11 +125,11 @@ Son activos, tales como personas, equipos, facilidades físicas, o artefactos ne
 
 Los proyectos son sistemas dinámicos que deben ser mantenidos en equilibrio.
 
-**Tiempo**: es la ventana de tiempo en la cual el proyecto debe terminarse.
+**`Tiempo`**: es la ventana de tiempo en la cual el proyecto debe terminarse.
 
-**Costo**: es el presupuesto disponible para completar el proyecto.
+**`Costo`**: es el presupuesto disponible para completar el proyecto.
 
-**Recursos**: es cualquier insumo o consumible usado en el proyecto - personas, equipos, oficinas, papel,...
+**`Recursos`**: es cualquier insumo o consumible usado en el proyecto - personas, equipos, oficinas, papel,...
 
 Son controlados por el líder del proyecto  y necesitan ser identificados de manera  independiente
 </td></table>
