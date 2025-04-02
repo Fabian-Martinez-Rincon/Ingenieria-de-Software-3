@@ -14,6 +14,9 @@
 - [Proyecto](#proyecto)
     - [Definición](#definición)
     - [Características](#caracteristicas)
+    - [Responsable de Proyecto](#responsable-de-proyecto)
+    - [Tareas del Responsable de Proyecto](#tareas-del-responsable-de-proyecto)
+
 
 
 
@@ -28,6 +31,8 @@ Un proyecto es una secuencia de actividades única, complejas y conectadas que  
 - Es cualquier actividad que dé como resultado un producto o un **`entregable`**
 - Es una organización temporal creada con el propósito de entregar uno o más productos empresariales dentro de las restricciones de costo, calidad y recursos
 
+---
+
 #### Caracteristicas
 
 - Los proyectos tienen un alcance limitado con productos concretos.
@@ -40,6 +45,8 @@ Un proyecto es una secuencia de actividades única, complejas y conectadas que  
 
 <img src="image.png?raw=true" style="border: 2px solid white; border-radius: 8px;"  width="510px"/></div>
 
+---
+
 #### Responsable de Proyecto
 
 **[LÍDER DE PROYECTO - DEFINICIÓN]**
@@ -50,6 +57,8 @@ Es el responsable de detectar las necesidades de los usuarios y gestionar los re
 interesados
 - Son jugadores de equipo que motivan al personal usando sus conocimientos  y habilidades
 - Realizan una planificación detallada para administrar la entrega de productos y servicios
+
+---
 
 #### Tareas del Responsable de Proyecto
 
@@ -64,3 +73,5 @@ interesados
 - Evaluar el desempeño del proyecto
 
 ---
+
+Responsable de Proyecto - Ejemplo
