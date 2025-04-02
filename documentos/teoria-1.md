@@ -8,8 +8,7 @@
 
 ---
 
-
-> Introducir e ilustrar conceptos básicos relacionados con la administración de proyectos.
+Indice
 
 - [Proyecto](#proyecto)
     - [Definición](#definición)
@@ -24,7 +23,10 @@
 
 ## Proyecto
 
-#### Definición
+> [!NOTE]
+> Introducir e ilustrar conceptos básicos relacionados con la administración de proyectos.
+
+### Definición
 
 Un proyecto es una secuencia de actividades única, complejas y conectadas que  tienen un objetivo o propósito y que deben ser completadas en un tiempo específico,  dentro del presupuesto y de acuerdo a las especificaciones.
 
@@ -33,7 +35,7 @@ Un proyecto es una secuencia de actividades única, complejas y conectadas que  
 
 ---
 
-#### Caracteristicas
+### Caracteristicas
 
 - Los proyectos tienen un alcance limitado con productos concretos.
 - El éxito se mide por el presupuesto, el tiempo de entrega y los productos que  cumplen las especificaciones.
@@ -47,7 +49,7 @@ Un proyecto es una secuencia de actividades única, complejas y conectadas que  
 
 ---
 
-#### Responsable de Proyecto
+### Responsable de Proyecto
 
 **[LÍDER DE PROYECTO - DEFINICIÓN]**
 
@@ -60,7 +62,7 @@ interesados
 
 ---
 
-#### Tareas del Responsable de Proyecto
+### Tareas del Responsable de Proyecto
 
 - Desarrollar el plan del proyecto
 - Identificar requerimientos y el alcance del proyecto
@@ -74,4 +76,16 @@ interesados
 
 ---
 
-Responsable de Proyecto - Ejemplo
+### Parámetros de un Proyecto
+
+Existen cinco restricciones que operan sobre un proyecto:
+
+- `1)` Alcance
+- `2)` Calidad
+- `3)` Costo
+- `4)` Tiempo
+- `5)` Recursos
+
+Son interdependientes - un cambio en una, implica un cambio en las demás. 
+
+****
