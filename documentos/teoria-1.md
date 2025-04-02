@@ -37,5 +37,5 @@ Un proyecto es una secuencia de actividades única, complejas y conectadas que  
 
 <div align="center">
 
-<img src="image.png" style="border: 2px solid black; border-radius: 8px;"  width="510px"/></div>
+<img src="image.png" style="border: 2px solid white; border-radius: 8px;"  width="510px"/></div>
 
