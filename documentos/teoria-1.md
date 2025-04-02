@@ -26,3 +26,16 @@ Un proyecto es una secuencia de actividades única, complejas y conectadas que  
 
 - Es cualquier actividad que dé como resultado un producto o un **`entregable`**
 - Es una organización temporal creada con el propósito de entregar uno o más productos empresariales dentro de las restricciones de costo, calidad y recursos
+
+**Caracteristicas**
+
+- Los proyectos tienen un alcance limitado con productos concretos.
+- El éxito se mide por el presupuesto, el tiempo de entrega y los productos que  cumplen las especificaciones.
+- Durante la ejecución de un proyecto, se trata de mantener los cambios al mínimo.
+- El proyecto es dirigido y coordinado por una persona responsable - líder o  gerente de proyecto; quien administra el tiempo, los recursos y el presupuesto
+
+
+<div align="center">
+
+<img src="image.png" style="border: 2px solid black; border-radius: 8px;"  width="510px"/></div>
+
