@@ -88,4 +88,44 @@ Existen cinco restricciones que operan sobre un proyecto:
 
 Son interdependientes - un cambio en una, implica un cambio en las demás. 
 
-****
+#### **Alcance**
+Es un enunciado que define los límites del proyecto. Dice lo que se va a hacer, pero  implícitamente también dice lo que no se va a hacer.
+
+- Es crítico que el alcance sea correcto. 
+- El alcance puede cambiar  
+- En caso de que se produzca un cambio al alcance, detectarlo  y decidir como acomodar el plan del proyecto es un desafío del líder de proyecto.
+
+#### **Calidad**
+
+Existen dos calidades a tener en cuenta en el desarrollo: 
+- `1)` calidad del producto 
+- `2)` calidad del proceso
+
+#### Recursos
+
+Son activos, tales como personas, equipos, facilidades físicas, o artefactos necesarios para la realización del proyecto
+
+- Tienen disponibilidad limitada, su uso puede planificarse, o puede ser contratado a una tercera parte.
+- Algunos son fijos y otros variables a largo plazo. 
+- Son centrales a la planificación de las actividades del proyecto y para la finalización ordenada del mismo.
+- Para los proyectos de desarrollo de sistemas, las personas constituyen el recurso más importante.
+
+---
+
+## Triángulo de Alcance
+
+<table><td>
+
+![alt text](image-1.png)
+</td><td>
+
+Los proyectos son sistemas dinámicos que deben ser mantenidos en equilibrio.
+
+**Tiempo**: es la ventana de tiempo en la cual el proyecto debe terminarse.
+
+**Costo**: es el presupuesto disponible para completar el proyecto.
+
+**Recursos**: es cualquier insumo o consumible usado en el proyecto - personas, equipos, oficinas, papel,...
+
+Son controlados por el líder del proyecto  y necesitan ser identificados de manera  independiente
+</td></table>
