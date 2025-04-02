@@ -1,7 +1,12 @@
-# Teoría  Administración de Proyectos
+
 
 <div align="center">
+
+# Teoría  Administración de Proyectos
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2cWkzZmp1NWFsYmthYmdzY2gzNGNhM2ZndXpmaWRoajI0YnprbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krMpiV41eo264/giphy.gif"/></div>
+
+---
 
 
 > Introducir e ilustrar conceptos básicos relacionados con la administración de proyectos.
