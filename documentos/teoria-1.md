@@ -32,6 +32,16 @@ Indice
     - [Principios de una buena administración](#principios-de-una-buena-administración)
     - [Ciclo de vida de un proyecto](#ciclo-de-vida-de-un-proyecto)
 - [Programas](#programas)
+    - [Programas y Proyectos](#programas-y-proyectos)
+    - [Programas - Conceptos](#programas---conceptos)
+    - [Diferencias entre Proyectos y Programas](#diferencias-entre-proyectos-y-programas)
+        - [Proyecto Caracteristicas](#proyecto-caracteristicas)
+        - [Programa Caracteristicas](#programa-caracteristicas)
+    - [Relación entre Proyectos y Programas](#relación-entre-proyectos-y-programas)
+- [Resumen](#resumen)
+    - [Resumen - Proyectos](#resumen---proyectos)
+    - [Resumen - Administración](#resumen---administración)
+
 
 
 
@@ -349,3 +359,14 @@ Introducir e ilustrar conceptos básicos relacionados con la administración de 
 - **PARÁMETROS** – alcance, calidad, costo, tiempo y recursos
 - **CLASIFICACIÓN** – riesgo, valor comercial, longitud, complejidad, costo
 - **CAUSAS DE FRACASO**
+
+---
+
+### Resumen - Administración
+
+- **`ADMINISTRACIÓN DE PROYECTOS`** - Es la planificación, la delegación, el seguimiento y el control de todos los aspectos del proyecto y la motivación de los participantes para alcanzar los objetivos del proyecto dentro de los objetivos de rendimiento esperados en términos de tiempo, costo, calidad, alcance, beneficios y riesgos
+- **`RELEVANCIA`** – alto porcentaje de fracasos
+- **`DESAFÍOS`** – relacionados a los productos a entregar y al proceso
+- **`PRINCIPIOS DE BUENA ADMINISTRACIÓN`** – gestión, finalización, compromiso, entrenamiento
+- **`CICLO DE VIDA`** – definición, planificación, ejecución, control, terminación
+
