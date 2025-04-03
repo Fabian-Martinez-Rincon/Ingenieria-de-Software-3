@@ -277,3 +277,75 @@ El objetivo de administrar un proyecto de software es aplicar buenos principios 
 ## Programas
 
 Introducir e ilustrar conceptos básicos relacionados con la administración de proyectos.
+
+### Programas y Proyectos
+
+- Mecanismos claves usados por las organizaciones para administrar sus agendas
+- La Administración de Programas y la Administración de Proyectos son complementarias
+
+<div align="center"><img src="image-11.png" width="270px"/></div>
+
+---
+
+### Programas - Conceptos
+
+- Es un grupo de proyectos relacionados que se gestionan de manera coordinada para obtener beneficios.
+- Se ocupa de los resultados
+- Proporciona un paraguas bajo el cual estos proyectos pueden ser coordinados.
+- Integra los proyectos de modo que pueda producir un resultado mayor que la suma de sus partes.
+
+---
+
+### Diferencias entre Proyectos y Programas
+
+Analicemos:
+- `1)` Características de proyectos
+- `2)` Características de programas
+
+#### Proyecto Caracteristicas
+
+- Los proyectos tienen un alcance limitado con productos concretos
+- El director del proyecto trata de mantener el cambio al mínimo
+- El éxito se mide por el presupuesto, el tiempo de entrega y los productos que cumplen las especificaciones
+- El estilo de liderazgo se centra en la entrega de las tareas y orientado hacia el cumplimiento de los criterios de éxito
+- Los gerentes de proyectos manejan técnicos, especialistas, etc.
+- Los gerentes de proyecto son jugadores de equipo que motivan al personal usando sus conocimientos y habilidades
+- Los gerentes de proyecto realizan una planificación detallada para administrar la entrega de productos y servicios
+
+#### Programa Caracteristicas
+
+- Los programas tienen un amplio alcance que puede cambiar para satisfacer las expectativas de beneficios
+- Los directores de programas deben esperar cambios e incluso aceptarlos
+- El éxito se mide en términos de retorno de la inversión (ROI), nuevas
+-apacidades y prestaciones para la organización
+- Los directores de programas deben facilitar y gestionar los aspectos políticos de la gestión de las partes interesadas
+- Los directores de programas gestionan los líderes de proyectos
+- El estilo de liderazgo se centra en la gestión de las relaciones y la resolución de conflictos
+- Los directores de programas son líderes que proporcionan visión y liderazgo
+- Los directores de programas crean planes de alto nivel que proporcionan orientación a los proyectos
+
+---
+
+### Relación entre Proyectos y Programas
+Un programa vincula proyectos de varias maneras:
+- Interdependencias de tareas entre proyectos
+- Limitaciones de recursos a través de múltiples proyectos
+- Actividades de mitigación del riesgo
+- Escalamiento de problemas, cambios de alcance, calidad, gestión de comunicaciones, riesgos, etc.
+
+
+<div align="center"><img src="image-12.png" width="390px"/></div>
+
+---
+
+## Resumen
+
+Introducir e ilustrar conceptos básicos relacionados con la administración de proyectos
+
+### Resumen - Proyectos
+
+- **PROYECTO**- es una secuencia de actividades única, complejas y conectadas que tienen un objetivo o propósito y que deben ser completadas en un tiempo específico, dentro del presupuesto y de acuerdo a las especificaciones
+- **RESPONSABLE** – líder, gerente
+- **PARÁMETROS** – alcance, calidad, costo, tiempo y recursos
+- **CLASIFICACIÓN** – riesgo, valor comercial, longitud, complejidad, costo
+- **CAUSAS DE FRACASO**
