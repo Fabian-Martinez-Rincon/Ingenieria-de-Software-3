@@ -73,7 +73,7 @@ Un proyecto es una secuencia de actividades única, complejas y conectadas que  
 
 
 
-<div align="center"><img src="image-6.png" width="510px"/></div>
+<div align="center"><img src="/documentos/imagenes_teoria_1/image-6.png" width="510px"/></div>
 
 ---
 
@@ -144,7 +144,7 @@ Son activos, tales como personas, equipos, facilidades físicas, o artefactos ne
 
 <table><td>
 
-![alt text](image-7.png)
+![alt text](/documentos/imagenes_teoria_1/image-7.png)
 
 </td><td>
 
@@ -172,7 +172,7 @@ Son controlados por el líder del proyecto  y necesitan ser identificados de man
 
 **Ejemplo**
 
-<div align="center"><img src="image-8.png" width="510px"/></div>
+<div align="center"><img src="/documentos/imagenes_teoria_1/image-8.png" width="510px"/></div>
 
 ---
 
@@ -210,7 +210,7 @@ Introducir e ilustrar conceptos básicos relacionados con la administración de 
 Es la planificación, la delegación, el seguimiento y el control de todos los aspectos del proyecto y la motivación de los participantes para alcanzar los objetivos del proyecto dentro de los objetivos de rendimiento esperados en términos de tiempo, costo, calidad, alcance, beneficios y riesgos.
 
 
-<div align="center"><img src="image-3.png" width="510px"/></div>
+<div align="center"><img src="/documentos/imagenes_teoria_1/image-3.png" width="510px"/></div>
 
 ---
 
@@ -220,7 +220,7 @@ La administración de proyectos es la aplicación de conocimientos, habilidades,
 
 La administración del proyecto se logra mediante el uso de los procesos tales como: iniciar, planificar, ejecutar, controlar y cerrar.
 
-<div align="center"><img src="image-4.png" width="510px"/></div>
+<div align="center"><img src="/documentos/imagenes_teoria_1/image-4.png" width="510px"/></div>
 
 ---
 
@@ -228,7 +228,7 @@ La administración del proyecto se logra mediante el uso de los procesos tales c
 
 Se trata de las habilidades, herramientas y procesos de gestión necesarios para llevar a cabo un proyecto con éxito
 
-<div align="center"><img src="image-5.png" width="310px"/></div>
+<div align="center"><img src="/documentos/imagenes_teoria_1/image-5.png" width="310px"/></div>
 
 ---
 
@@ -236,7 +236,7 @@ Se trata de las habilidades, herramientas y procesos de gestión necesarios para
 
 El objetivo de administrar un proyecto de software es aplicar buenos principios y técnicas de administración de proyectos y de ingeniería de software a fin de que el producto se entregue al mínimo costo, mínimo tiempo y sea de buena calidad
 
-<div align="center"><img src="image-9.png" width="510px"/></div>
+<div align="center"><img src="/documentos/imagenes_teoria_1/image-9.png" width="510px"/></div>
 
 
 
@@ -280,7 +280,7 @@ El objetivo de administrar un proyecto de software es aplicar buenos principios 
 ### Ciclo de vida de un proyecto
 
 
-<div align="center"><img src="image-10.png" width="410px"/></div>
+<div align="center"><img src="/documentos/imagenes_teoria_1/image-10.png" width="410px"/></div>
 
 ---
 
@@ -293,7 +293,7 @@ Introducir e ilustrar conceptos básicos relacionados con la administración de 
 - Mecanismos claves usados por las organizaciones para administrar sus agendas
 - La Administración de Programas y la Administración de Proyectos son complementarias
 
-<div align="center"><img src="image-11.png" width="270px"/></div>
+<div align="center"><img src="/documentos/imagenes_teoria_1/image-11.png" width="270px"/></div>
 
 ---
 
@@ -344,7 +344,7 @@ Un programa vincula proyectos de varias maneras:
 - Escalamiento de problemas, cambios de alcance, calidad, gestión de comunicaciones, riesgos, etc.
 
 
-<div align="center"><img src="image-12.png" width="390px"/></div>
+<div align="center"><img src="/documentos/imagenes_teoria_1/image-12.png" width="390px"/></div>
 
 ---
 
