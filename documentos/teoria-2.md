@@ -27,6 +27,13 @@ Indice
         - [WBS - Enfoque por verbos](#wbs---enfoque-por-verbos)
         - [WBS - Enfoque organizacional](#wbs---enfoque-organizacional)
 - [Duración](#duración)
+    - [Carga de recursos vs Duración 1](#carga-de-recursos-vs-duración-1)
+    - [Carga de recursos vs Duración 2](#carga-de-recursos-vs-duración-2)
+    - [Variaciones en la duración](#variaciones-en-la-duración)
+        - [Duración - Variación en los perfiles](#duración---variación-en-los-perfiles)
+        - [Duración - Eventos inesperados](#duración---eventos-inesperados)
+        - [Duración - Eficiencia del tiempo de trabajo](#duración---eficiencia-del-tiempo-de-trabajo)
+        - [Duración - Errores e interpretaciones erróneas](#duración---errores-e-interpretaciones-erróneas)
     
 
 
@@ -236,8 +243,140 @@ Se pueden estipular criterios para nombrar las tareas:
 
 **`Esfuerzo de Trabajo`** es la labor requerida para completar una actividad. La labor se puede realizar en horas consecutivas o no.
 
-La duración es diferente al esfuerzo de trabajo.
+La **duración** es diferente al **esfuerzo de trabajo**.
 
 Duración: 10 días - Esfuerzo de trabajo: 20 horas
 
-El tiempo transcurrido es diferente al tiempo de trabajo en una actividad. Existen imprevistos, interrupciones, actividades sociales.
+El **tiempo transcurrido** es diferente al **tiempo de trabajo** en una actividad. Existen imprevistos, interrupciones, actividades sociales.
+
+---
+
+### Carga de recursos vs Duración 1
+
+La duración de una actividad es influenciada por la cantidad de recursos planificados para trabajar en ella.
+
+Se dice **``influenciada``**, ya que no es una relación lineal directa entre la cantidad de recursos asignados a la tarea y la duración de la misma.
+
+**`Crash de la Actividad`**: agregar más recursos para mantener la duración de una actividad dentro de los límites planificados.
+
+Ejemplo: traslado de la silla con una persona y con dos personas.
+
+---
+
+### Carga de recursos vs Duración 2
+
+Crashpoint de la Actividad: es el punto en el cual agregar más recursos aumenta la duración de la actividad.
+
+Ejemplo: traslado de la silla con cuatro personas.
+
+El agregar n personas a una actividad, hace que se agreguen:
+
+- **`1)`** como mínimo n canales de comunicación más 
+- **`2)`** trabajo de coordinar a estas personas
+- **`3)`** nuevas tareas (capacitación, supervisión, coordinación)
+
+Otra consideración para el LP al agregar recursos a una actividad es considerar el impacto del riesgo de esta decisión. Ej: distintos enfoques de trabajo, mayor probabilidad que alguien tenga problemas, ...
+
+--- 
+
+### Variaciones en la duración
+
+Existen distintas causas por las variaciones a la duración de una  actividad:
+
+- **`1)`** variación en los perfiles
+- **`2)`** eventos inesperados
+- **`3)`** eficiencia del tiempo de trabajo
+- **`4)`** errores e interpretaciones erróneas
+
+#### Duración - Variación en los perfiles
+
+La estrategia es estimar la duración de la actividad basados en  personas con un determinado perfil para la actividad. 
+
+Las personas asignadas pueden tener distintos perfiles y esto implica cambios en la duración.
+
+#### Duración - Eventos inesperados
+
+- **`1)`** demoras de proveedores
+- **`2)`** fallas  de energía
+- **`3)`** incorrecto envío de materiales
+- **`4)`** enfermedades
+- **`5)`** problemas técnicos
+- **`6)`** ...
+
+#### Duración - Eficiencia del tiempo de trabajo
+
+Cada vez que un trabajador es interrumpido, le demanda más tiempo volver al nivel de productividad previo al momento de  la interrrupción.
+
+Se logra mayor eficiencia al realizar trabajos de manera focalizada.
+
+Algunas personas se ven mas afectadas que otras.
+
+#### Duración - Errores e interpretaciones erróneas
+
+Existen errores e interpretaciones erróneas sobre los trabajos a realizar. 
+
+Esto puede implicar rehacer trabajo ya hecho
+
+---
+
+### Duración - Métodos de Estimación
+
+Existen distintas técnicas para estimar esfuerzo:
+- **`1)`** similitud con otras actividades
+- **`2)`** datos históricos
+- **`3)`** juicio experto
+- **`4)`** técnica Delphi
+- **`5)`** técnica de 3 puntos
+- **`6)`** técnica Delphi de banda ancha
+
+#### Duración - Similitud con otras actividades
+
+Estimar en base a las estimaciones de actividades similares de otros proyectos.
+
+Los datos están en la memoria de las personas.
+
+#### Duración - Datos históricos
+
+Estimar en base a las estimaciones de actividades similares de otros proyectos.
+
+Los datos están en un registro –base de datos, no sólo en la memoria de las personas.
+
+La base de datos histórica puede ser tan sofisticada como se desee.
+
+#### Duración - Juicio experto
+
+Las estimaciones las realizan consultores externos o vendedores con experiencia en la metodología o en la tecnología.
+
+Si el juicio experto se basa en la estimación de vendedores, las estimaciones pueden no ser objetivas.
+
+#### Duración - Técnica Delphi
+
+Es una técnica de grupo que extrae y resume el conocimiento del grupo para arribar a una estimación. 
+
+Se le pide a cada miembro del grupo a que realice su estimación.
+
+**Primera Pasada**
+
+Los resultados de la estimación son tabulados de la siguiente manera, rotulados como Primera Pasada: 
+
+<div align="center"><img src="image-4.png" width="510px"/></div>
+
+**Segunda Pasada**
+
+Aquellos participantes cuyas estimaciones cayeron en los cuartiles exteriores, se les pide que justifiquen su estimación.
+
+Luego de escuchar los argumentos, se les pide a los miembros que vuelvan a estimar.
+
+Los resultados se presentan en un histograma rotulado "Segunda Pasada".
+
+Las posiciones extremas se defienden.
+
+**Tercera Pasada**
+
+Nuevamente se hace otra estimación.
+
+Los resultados se publican como la "Tercera Pasada".
+
+Se permiten ajustes finales.
+
+El promedio de la tercera pasada se usa como estimación del grupo.
