@@ -11,9 +11,6 @@ Indice
     - [WBS - Work Breakdown Structure](#wbs---work-breakdown-structure)
     - [WBS - Usos](#wbs---usos)
     - [WBS - Construcción](#wbs---construcción)
-        - [WBS - Construcción - Top-Down Equipo Completo](#wbs---construcción---top-down-equipo-completo)
-        - [WBS - Construcción - Top Down Sub Equipos](#wbs---construcción---top-down-sub-equipos)
-        - [WBS - Construcción - Bottom Up](#wbs---construcción---bottom-up)
 - [Terminación](#terminación)
     - [WBS - Cómo determinar completitud](#wbs---cómo-determinar-completitud)
         - [Completitud - Estado Medible](#completitud---estado-medible)
@@ -90,54 +87,40 @@ Debe definirse de tal manera que el `LP` pueda administrar el proyecto.
 Manera de que funcione: stickers, resaltadores, pizarrón, paredes.
 
 Formas de construirlo:
-- 1) Top-Down
-    - **`a)`** equipo completo
-    - **`b)`** sub-equipos
-- 2) Bottom-up
 
-#### WBS - Construcción - Top-Down Equipo Completo
 
-Todos los miembros del equipo participan de la descomposición.
+<details><summary>1) Top-Down a) Equipo completo</summary>
 
-Se comienza con el nivel 0 (el de la meta) y se particiona sucesivamente hasta que los participantes estén satisfechos de que el trabajo ha sido suficientemente definido.
+- Todos los miembros del equipo participan de la descomposición.
+- Se comienza con el nivel 0 (el de la meta) y se particiona sucesivamente hasta que los participantes estén satisfechos de que el trabajo ha sido suficientemente definido.
+- Debido a que las actividades se definen con el suficiente nivel de detalle, las estimaciones de costo, tiempo y recursos son más exactas.
+- Una vez que las actividades se han definido, se deben secuenciar. Se debe analizar qué actividades se pueden hacer concurrentemente.
+- **`Ventaja`**: brinda la oportunidad de que todos presten atención al WBS, y se discuta en el momento.
+</details>
 
-Debido a que las actividades se definen con el suficiente nivel de detalle, las estimaciones de costo, tiempo y recursos son más exactas.
 
-Una vez que las actividades se han definido, se deben secuenciar. Se debe analizar qué actividades se pueden hacer concurrentemente.
+<details><summary>1) Top-Down b) Sub-equipos</summary>
 
-**`Ventaja`**: brinda la oportunidad de que todos presten atención al WBS, y se discuta en el momento.
+- El equipo completo acuerda la partición del primer nivel.
+- Se crean tantos sub-equipos como actividades haya en el nivel uno. 
+- Cada sub-equipo particiona una actividad (se le asigna la actividad para la cual tenga más experiencia).
+- Un sub-equipo puede solicitar ayuda externa.
+- Demanda menos tiempo que el enfoque anterior
+</details>
 
-#### WBS - Construcción - Top Down Sub Equipos
+<details><summary>2) Bottom-up</summary>
 
-El equipo completo acuerda la partición del primer nivel.
+- Se asemeja a una lluvia de ideas (brainstorming).
+- El equipo completo acuerda la partición del primer nivel
+- Se crean tantos sub-equipos como actividades haya en el nivel uno. 
+- Cada sub-equipo particiona una actividad (se le asigna la actividad para la cual tenga más experiencia). Cada grupo hace una lista de actividades en las cuales se descompone la actividad de nivel 1 asignada.
+- Los integrantes presentan ideas sobre las tareas que involucra cada una de esas sub-actividades.
+- El grupo clasifica las actividades que parecieran relacionarse. 
+- Se reunen todos los grupos y cada grupo presenta sus resultados. Se discute en conjunto.
+- La desventaja de este enfoque es no definir las tareas con el suficiente grado de granularidad.
+- Existen metodologías que ayudan a la descomposición de actividades: proveen listados de las tareas.
+</details>
 
-Se crean tantos sub-equipos como actividades haya en el nivel uno. 
-
-Cada sub-equipo particiona una actividad (se le asigna la actividad para la cual tenga más experiencia).
-
-Un sub-equipo puede solicitar ayuda externa.
-
-Demanda menos tiempo que el enfoque anterior
-
-#### WBS - Construcción - Bottom Up
-
-Se asemeja a una lluvia de ideas (brainstorming).
-
-El equipo completo acuerda la partición del primer nivel
-
-Se crean tantos sub-equipos como actividades haya en el nivel uno. 
-
-Cada sub-equipo particiona una actividad (se le asigna la actividad para la cual tenga más experiencia). Cada grupo hace una lista de actividades en las cuales se descompone la actividad de nivel 1 asignada.
-
-Los integrantes presentan ideas sobre las tareas que involucra cada una de esas sub-actividades.
-
-El grupo clasifica las actividades que parecieran relacionarse. 
-
-Se reunen todos los grupos y cada grupo presenta sus resultados. Se discute en conjunto.
-
-La desventaja de este enfoque es no definir las tareas con el suficiente grado de granularidad.
-
-Existen metodologías que ayudan a la descomposición de actividades: proveen listados de las tareas.
 
 ---
 
