@@ -14,3 +14,4 @@
 ---
 
 - [Teoria 1 Resumen](/documentos/teoria-1.md)
+- [Teoria 2 Resumen](/documentos/teoria-2.md)

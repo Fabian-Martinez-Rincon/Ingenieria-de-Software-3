@@ -34,7 +34,15 @@ Indice
         - [Duración - Eventos inesperados](#duración---eventos-inesperados)
         - [Duración - Eficiencia del tiempo de trabajo](#duración---eficiencia-del-tiempo-de-trabajo)
         - [Duración - Errores e interpretaciones erróneas](#duración---errores-e-interpretaciones-erróneas)
-    
+    - [Duración - Métodos de Estimación](#duración---métodos-de-estimación)
+        - [Duración - Similitud con otras actividades](#duración---similitud-con-otras-actividades)
+        - [Duración - Datos históricos](#duración---datos-históricos)
+        - [Duración - Juicio experto](#duración---juicio-experto)
+        - [Duración - Técnica Delphi](#duración---técnica-delphi)
+        - [Duración - Técnica de 3 puntos](#duración---técnica-de-3-puntos)
+        - [Duración - Técnica Delphi de banda ancha](#duración---técnica-delphi-de-banda-ancha)
+    - [Duración - Otros Métodos](#duración---otros-métodos)
+    - [Resumen](#resumen)    
 
 
 ---
@@ -380,3 +388,55 @@ Los resultados se publican como la "Tercera Pasada".
 Se permiten ajustes finales.
 
 El promedio de la tercera pasada se usa como estimación del grupo.
+
+#### Duración - Técnica de 3 puntos
+
+Se necesitan 3 estimaciones de la duración de la actividad: `1) optimista`, `2) pesimista`, y `3) media`.
+
+`Estimación Optimista`: es la duración mas corta suponiendo que todo suceda de acuerdo a la planificado.
+
+`Estimación Pesimista`: la duración de la actividad suponiendo que falle todo lo que se prevé que puede fallar.
+
+`Estimación Media`: la duración normal (usual) de la actividad.
+
+`Estimación` = (`Optimista` + `4` * `Media` + `Pesimista`) / `6`
+
+#### Duración - Técnica Delphi de banda ancha
+
+Es una combinación de la técnica Delphi y la de 3 Puntos.
+
+Se basa en la técnica Delphi pero a cada integrante se le pide que haga las 3 estimaciones: la optimista, la pesimista y la media.
+
+Se recopilan los resultados y se eliminan los extremos.
+
+Se calculan los promedios de optimistas, pesimistas y medias.
+
+Se calcula con la fórmula de 3 Puntos utilizando los promedios.
+
+---
+
+### Estimación - Otros Métodos
+
+Otros autores proveen la siguiente clasificación:
+
+- **`1)`** analogía con proyecto previo
+- **`2)`** estimar tamaño:
+    - **`a)`** longitud (LOC)
+    - **`b)`** funcionalidad (Puntos de Función de Albrecht).
+- **`3)`** modelos algorítmicos: `a` * `(KLOC)` ^ `b` * `FactorAjuste` **[CoCoMo]**
+- **`4)`** juicio experto
+- **`5)`** estimación top-down o bottom-up
+
+LOC – Lines of Code
+
+---
+
+### Resumen
+
+- **`1)`** Partición del trabajo a realizar en un proyecto – WBS
+- **`2)`** Cómo construir el WBS – top down (equipo complete, sub-equipos), bottom-up
+- **`3)`** Criterios para finalizar la partición - estado medible, acotada, producir un entregable, tiempo y costo estimable, duración aceptable, e independiente
+- **`4)`** Duración y esfuerzo de trabajo
+- **`5)`** Métodos de estimación - similitud con otras actividades, datos históricos, juicio experto, técnica Delphi, técnica de 3 puntos, técnica Delphi de banda ancha
+
+---
