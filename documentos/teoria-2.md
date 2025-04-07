@@ -13,31 +13,12 @@ Indice
     - [WBS - Construcción](#wbs---construcción)
 - [Terminación](#terminación)
     - [WBS - Cómo determinar completitud](#wbs---cómo-determinar-completitud)
-        - [Completitud - Estado Medible](#completitud---estado-medible)
-        - [Completitud - Acotada](#completitud---acotada)
-        - [Completitud - Producir un entregable](#completitud---producir-un-entregable)
-        - [Completitud - Tiempo y Costo Estimable](#completitud---tiempo-y-costo-estimable)
-        - [Completitud - Duración Aceptable](#completitud---duración-aceptable)
-        - [Completitud - Independiente](#completitud---independiente)
     - [WBS - Enfoques para definición de actividades](#wbs---enfoques-para-definición-de-actividades)
-        - [WBS - Enfoque por sustantivos](#wbs---enfoque-por-sustantivos)
-        - [WBS - Enfoque por verbos](#wbs---enfoque-por-verbos)
-        - [WBS - Enfoque organizacional](#wbs---enfoque-organizacional)
 - [Duración](#duración)
     - [Carga de recursos vs Duración 1](#carga-de-recursos-vs-duración-1)
     - [Carga de recursos vs Duración 2](#carga-de-recursos-vs-duración-2)
     - [Variaciones en la duración](#variaciones-en-la-duración)
-        - [Duración - Variación en los perfiles](#duración---variación-en-los-perfiles)
-        - [Duración - Eventos inesperados](#duración---eventos-inesperados)
-        - [Duración - Eficiencia del tiempo de trabajo](#duración---eficiencia-del-tiempo-de-trabajo)
-        - [Duración - Errores e interpretaciones erróneas](#duración---errores-e-interpretaciones-erróneas)
     - [Duración - Métodos de Estimación](#duración---métodos-de-estimación)
-        - [Duración - Similitud con otras actividades](#duración---similitud-con-otras-actividades)
-        - [Duración - Datos históricos](#duración---datos-históricos)
-        - [Duración - Juicio experto](#duración---juicio-experto)
-        - [Duración - Técnica Delphi](#duración---técnica-delphi)
-        - [Duración - Técnica de 3 puntos](#duración---técnica-de-3-puntos)
-        - [Duración - Técnica Delphi de banda ancha](#duración---técnica-delphi-de-banda-ancha)
     - [Duración - Otros Métodos](#duración---otros-métodos)
     - [Resumen](#resumen)    
 
@@ -132,33 +113,26 @@ Presentart técnicas para definir las actividades y tareas de un proyect
 
 Cada actividad debe poseer 6 características para considerarse completa:
 
-- **`1)`** Estado medible
-- **`2)`** Acotada
-- **`3)`** Producir un entregable
-- **`4)`** Tiempo y costo estimable
-- **`5)`** Duración aceptable
-- **`6)`** Independiente
+<details><summary>1) Estado medible</summary>
 
-#### Completitud - Estado Medible
+- El estado de una actividad debe ser medible - en cualquier momento  se debería poder determinar el estado en que se encuentra.
+- **`Ejemplo`**: codificar 10 componentes de 10.000 líneas de código. Tiempo asignado: 10 semanas.
+- Luego de 4 semanas el LP pregunta cuál es el estado de la  tarea. 
+- ¿Cuáles serían las respuestas válidas?
+</details>
 
-El estado de una actividad debe ser medible - en cualquier momento  se debería poder determinar el estado en que se encuentra.
 
-**`Ejemplo`**: codificar 10 componentes de 10.000 líneas de código. Tiempo asignado: 10 semanas.
-
-Luego de 4 semanas el LP pregunta cuál es el estado de la  tarea. 
-
-¿Cuáles serían las respuestas válidas?
-
-#### Completitud - Acotada
+<details><summary>2) Acotada</summary>
 
 Una actividad debe ser acotada.
 
 Debe poseer:
 
 - **`1)`** evento de comienzo → fecha de comienzo
-- **`2)`** evento de fin →fecha de fin
+- **`2)`** evento de fin → fecha de fin
+</details>
 
-#### Completitud - Producir un entregable
+<details><summary>3) Producir un entregable</summary>
 
 Una actividad debe producir un entregable. El entregable es un signo visible de que la actividad se completó.
 
@@ -168,32 +142,29 @@ Puede ser:
 - **`2)`** un documento
 - **`3)`** la autorización para continuar con la próxima tarea,
 - **`4)`** etc.
+</details>
 
-#### Completitud - Tiempo y Costo Estimable
+<details><summary>4)Tiempo y costo estimable</summary>
 
-Una actividad debe tener un tiempo y un costo medibles.
+- Una actividad debe tener un tiempo y un costo medibles.
+- El tiempo y costo deben ser fácilmente estimables.
+- Realizar la estimación de tiempo y costo para las tareas de menor nivel, permite luego agregar y calcular el costo y tiempo total del proyecto.
+</details>
 
-El tiempo y costo deben ser fácilmente estimables.
+<details><summary>5) Duración aceptable</summary>
 
-Realizar la estimación de tiempo y costo para las tareas de menor nivel, permite luego agregar y calcular el costo y tiempo total del proyecto.
+- La duración de una actividad debe ser aceptable.
+- En lo posible no trabajar con tareas de más de 10 días  - 2 semanas laborables. 
+- **`Cuidado`**: hay excepciones.
+</details>
 
-#### Completitud - Duración Aceptable
+<details><summary>6) Independiente</summary>
 
-La duración de una actividad debe ser aceptable.
-
-En lo posible no trabajar con tareas de más de 10 días  - 2 semanas laborables. 
-
-Cuidado: hay excepciones.
-
-#### Completitud - Independiente
-
-Una actividad debe ser independiente.
-
-Es importante la independencia de actividades.
-
-Una vez que se comenzó una actividad se debe poder continuar razonablemente sin interrupciones y sin la necesidad de un input adicional. 
-
-El esfuerzo dedicado a una actividad debe ser continuo.
+- Una actividad debe ser independiente.
+- Es importante la independencia de actividades.
+- Una vez que se comenzó una actividad se debe poder continuar razonablemente sin interrupciones y sin la necesidad de un input adicional. 
+- El esfuerzo dedicado a una actividad debe ser continuo.
+</details>
 
 ---
 
@@ -203,28 +174,20 @@ No hay reglas.
 
 Se pueden estipular criterios para nombrar las tareas:
 
-- **`1)`** **Enfoque por sustantivos**: en función de los entregables.
-- **`2)`** **Enfoque por verbos**: en función de las acciones requeridas para producir el entregable.
-- **`3)`** **Enfoque organizacional**: en función de las unidades organizativas que trabajarán en el proyecto.
+<details><summary>1) Enfoque por sustantivos: en función de los entregables.</summary>
 
-<div align="center">
+<div align="center"><img src="image-1.png" width="510px"/></div>
+</details>
 
-#### WBS - Enfoque por sustantivos
+<details><summary>2) Enfoque por verbos: en función de las acciones requeridas para producir el entregable.</summary>
 
-<img src="image-1.png" width="510px"/></div>
+<div align="center"><img src="image-2.png" width="510px"/></div>
+</details>
 
-<div align="center">
+<details><summary>3) Enfoque organizacional: en función de las unidades organizativas que trabajarán en el proyecto.</summary>
 
-#### WBS - Enfoque por verbos
-
-<img src="image-2.png" width="510px"/></div>
-
-
-<div align="center">
-
-#### WBS - Enfoque organizacional
-
-<img src="image-3.png" width="510px"/></div>
+<div align="center"><img src="image-3.png" width="510px"/></div>
+</details>
 
 ---
 
@@ -274,18 +237,13 @@ Otra consideración para el LP al agregar recursos a una actividad es considerar
 
 Existen distintas causas por las variaciones a la duración de una  actividad:
 
-- **`1)`** variación en los perfiles
-- **`2)`** eventos inesperados
-- **`3)`** eficiencia del tiempo de trabajo
-- **`4)`** errores e interpretaciones erróneas
+<details><summary> 1) Variación en los perfiles</summary>
 
-#### Duración - Variación en los perfiles
+- La estrategia es estimar la duración de la actividad basados en  personas con un determinado perfil para la actividad. 
+- Las personas asignadas pueden tener distintos perfiles y esto implica cambios en la duración.
+</details>
 
-La estrategia es estimar la duración de la actividad basados en  personas con un determinado perfil para la actividad. 
-
-Las personas asignadas pueden tener distintos perfiles y esto implica cambios en la duración.
-
-#### Duración - Eventos inesperados
+<details><summary> 2) Eventos inesperados</summary>
 
 - **`1)`** demoras de proveedores
 - **`2)`** fallas  de energía
@@ -293,58 +251,51 @@ Las personas asignadas pueden tener distintos perfiles y esto implica cambios en
 - **`4)`** enfermedades
 - **`5)`** problemas técnicos
 - **`6)`** ...
+</details>
 
-#### Duración - Eficiencia del tiempo de trabajo
+<details><summary> 3) Eficiencia del tiempo de trabajo</summary>
 
-Cada vez que un trabajador es interrumpido, le demanda más tiempo volver al nivel de productividad previo al momento de  la interrrupción.
+- Cada vez que un trabajador es interrumpido, le demanda más tiempo volver al nivel de productividad previo al momento de  la interrrupción.
+- Se logra mayor eficiencia al realizar trabajos de manera focalizada.
+- Algunas personas se ven mas afectadas que otras.
+</details>
 
-Se logra mayor eficiencia al realizar trabajos de manera focalizada.
+<details><summary> 4) Errores e interpretaciones erróneas</summary>
 
-Algunas personas se ven mas afectadas que otras.
+- Existen errores e interpretaciones erróneas sobre los trabajos a realizar. 
+- Esto puede implicar rehacer trabajo ya hecho
+</details>
 
-#### Duración - Errores e interpretaciones erróneas
-
-Existen errores e interpretaciones erróneas sobre los trabajos a realizar. 
-
-Esto puede implicar rehacer trabajo ya hecho
 
 ---
 
 ### Duración - Métodos de Estimación
 
 Existen distintas técnicas para estimar esfuerzo:
-- **`1)`** similitud con otras actividades
-- **`2)`** datos históricos
-- **`3)`** juicio experto
-- **`4)`** técnica Delphi
-- **`5)`** técnica de 3 puntos
-- **`6)`** técnica Delphi de banda ancha
 
-#### Duración - Similitud con otras actividades
+<details><summary>1) similitud con otras actividades</summary>
 
-Estimar en base a las estimaciones de actividades similares de otros proyectos.
+- Estimar en base a las estimaciones de actividades similares de otros proyectos.
+- Los datos están en la memoria de las personas.
+</details>
 
-Los datos están en la memoria de las personas.
+<details><summary>2) datos históricos</summary>
 
-#### Duración - Datos históricos
+- Estimar en base a las estimaciones de actividades similares de otros proyectos.
+- Los datos están en un registro –base de datos, no sólo en la memoria de las personas.
+- La base de datos histórica puede ser tan sofisticada como se desee.
+</details>
 
-Estimar en base a las estimaciones de actividades similares de otros proyectos.
+<details><summary>3) juicio experto</summary>
 
-Los datos están en un registro –base de datos, no sólo en la memoria de las personas.
+- Las estimaciones las realizan consultores externos o vendedores con experiencia en la metodología o en la tecnología.
+- Si el juicio experto se basa en la estimación de vendedores, las estimaciones pueden no ser objetivas.
+</details>
 
-La base de datos histórica puede ser tan sofisticada como se desee.
+<details><summary>4) técnica Delphi</summary>
 
-#### Duración - Juicio experto
-
-Las estimaciones las realizan consultores externos o vendedores con experiencia en la metodología o en la tecnología.
-
-Si el juicio experto se basa en la estimación de vendedores, las estimaciones pueden no ser objetivas.
-
-#### Duración - Técnica Delphi
-
-Es una técnica de grupo que extrae y resume el conocimiento del grupo para arribar a una estimación. 
-
-Se le pide a cada miembro del grupo a que realice su estimación.
+- Es una técnica de grupo que extrae y resume el conocimiento del grupo para arribar a una estimación. 
+- Se le pide a cada miembro del grupo a que realice su estimación.
 
 **Primera Pasada**
 
@@ -354,47 +305,37 @@ Los resultados de la estimación son tabulados de la siguiente manera, rotulados
 
 **Segunda Pasada**
 
-Aquellos participantes cuyas estimaciones cayeron en los cuartiles exteriores, se les pide que justifiquen su estimación.
-
-Luego de escuchar los argumentos, se les pide a los miembros que vuelvan a estimar.
-
-Los resultados se presentan en un histograma rotulado "Segunda Pasada".
-
-Las posiciones extremas se defienden.
+- Aquellos participantes cuyas estimaciones cayeron en los cuartiles exteriores, se les pide que justifiquen su estimación.
+- Luego de escuchar los argumentos, se les pide a los miembros que vuelvan a estimar.
+- Los resultados se presentan en un histograma rotulado "Segunda Pasada".
+- Las posiciones extremas se defienden.
 
 **Tercera Pasada**
 
-Nuevamente se hace otra estimación.
+- Nuevamente se hace otra estimación.
+- Los resultados se publican como la "Tercera Pasada".
+- Se permiten ajustes finales.
+- El promedio de la tercera pasada se usa como estimación del grupo.
+</details>
 
-Los resultados se publican como la "Tercera Pasada".
-
-Se permiten ajustes finales.
-
-El promedio de la tercera pasada se usa como estimación del grupo.
-
-#### Duración - Técnica de 3 puntos
+<details><summary>5) técnica de 3 puntos</summary>
 
 Se necesitan 3 estimaciones de la duración de la actividad: `1) optimista`, `2) pesimista`, y `3) media`.
 
-`Estimación Optimista`: es la duración mas corta suponiendo que todo suceda de acuerdo a la planificado.
+- `Estimación Optimista`: es la duración mas corta suponiendo que todo suceda de acuerdo a la planificado.
+- `Estimación Pesimista`: la duración de la actividad suponiendo que falle todo lo que se prevé que puede fallar.
+- `Estimación Media`: la duración normal (usual) de la actividad.
+- `Estimación` = (`Optimista` + `4` * `Media` + `Pesimista`) / `6`
+</details>
 
-`Estimación Pesimista`: la duración de la actividad suponiendo que falle todo lo que se prevé que puede fallar.
+<details><summary>6) técnica Delphi de banda ancha</summary>
 
-`Estimación Media`: la duración normal (usual) de la actividad.
-
-`Estimación` = (`Optimista` + `4` * `Media` + `Pesimista`) / `6`
-
-#### Duración - Técnica Delphi de banda ancha
-
-Es una combinación de la técnica Delphi y la de 3 Puntos.
-
-Se basa en la técnica Delphi pero a cada integrante se le pide que haga las 3 estimaciones: la optimista, la pesimista y la media.
-
-Se recopilan los resultados y se eliminan los extremos.
-
-Se calculan los promedios de optimistas, pesimistas y medias.
-
-Se calcula con la fórmula de 3 Puntos utilizando los promedios.
+- Es una combinación de la técnica Delphi y la de 3 Puntos.
+- Se basa en la técnica Delphi pero a cada integrante se le pide que haga las 3 estimaciones: la optimista, la pesimista y la media.
+- Se recopilan los resultados y se eliminan los extremos.
+- Se calculan los promedios de optimistas, pesimistas y medias.
+- Se calcula con la fórmula de 3 Puntos utilizando los promedios.
+</details>
 
 ---
 
