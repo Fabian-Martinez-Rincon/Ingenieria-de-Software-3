@@ -2,15 +2,40 @@
 
 ## Parte 1 Conceptos Generales
 
-`1)` Explique con sus palabras en qué consiste un proyecto
+**`1)` Explique con sus palabras en qué consiste un proyecto**
 
-`2)` Indique cuál es el trabajo de un líder de proyecto. Nombre al menos cinco tareas del
-mismo.
+Un proyecto es una **secuencia de actividades únicas, conectadas y complejas** que tiene como objetivo entregar un producto o resultado en **un tiempo limitado, dentro de un presupuesto y cumpliendo especificaciones**.
 
-`3)` Enumere y explique cuáles son los parámetros o restricciones que afectan a los
-proyectos.
+---
 
-`4)` ¿En qué consiste el “Triángulo de alcance”? Explique el concepto
+**`2)` Indique cuál es el trabajo de un líder de proyecto. Nombre al menos cinco tareas del mismo.**
+
+El líder de proyecto **coordina el trabajo**, **motiva al equipo**, **gestiona recursos** y **asegura que el proyecto cumpla tiempo, costo y calidad**.
+
+Cinco tareas son:
+- Desarrollar el plan del proyecto.  
+- Administrar recursos humanos y materiales.  
+- Identificar y controlar riesgos.  
+- Comunicar y reportar a los interesados.  
+- Asegurar la calidad del proyecto.
+
+---
+
+**`3)` Enumere y explique cuáles son los parámetros o restricciones que afectan a los proyectos.**
+
+Los proyectos tienen **cinco parámetros** principales:
+
+- **Alcance**: define qué se va a hacer y qué no; cambios en el alcance deben ser gestionados.  
+- **Calidad**: se refiere a la calidad del producto y del proceso.  
+- **Costo**: el presupuesto disponible para completar el proyecto.  
+- **Tiempo**: el plazo para terminar el proyecto.  
+- **Recursos**: personas, equipos o materiales necesarios, que son limitados.
+
+---
+
+**`4)` ¿En qué consiste el “Triángulo de alcance”? Explique el concepto**
+
+---
 
 `5)` Identifique las etapas que forman parte de un proyecto y describa en pocas palabras en qué consiste cada una.
 
