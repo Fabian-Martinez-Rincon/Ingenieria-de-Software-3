@@ -12,7 +12,6 @@ Un proyecto es una **secuencia de actividades únicas, conectadas y complejas** 
 
 El líder de proyecto **coordina el trabajo**, **motiva al equipo**, **gestiona recursos** y **asegura que el proyecto cumpla tiempo, costo y calidad**.
 
-Cinco tareas son:
 - Desarrollar el plan del proyecto.  
 - Administrar recursos humanos y materiales.  
 - Identificar y controlar riesgos.  
@@ -22,8 +21,6 @@ Cinco tareas son:
 ---
 
 **`3)` Enumere y explique cuáles son los parámetros o restricciones que afectan a los proyectos.**
-
-Los proyectos tienen **cinco parámetros** principales:
 
 - **Alcance**: define qué se va a hacer y qué no; cambios en el alcance deben ser gestionados.  
 - **Calidad**: se refiere a la calidad del producto y del proceso.  
@@ -35,54 +32,198 @@ Los proyectos tienen **cinco parámetros** principales:
 
 **`4)` ¿En qué consiste el “Triángulo de alcance”? Explique el concepto**
 
+El “**Triángulo de alcance**” muestra que **alcance, calidad, costo, tiempo y recursos** están interrelacionados:  
+un cambio en uno de ellos **impacta a los demás**, y el proyecto debe mantenerse en equilibrio para ser exitoso.
+
 ---
 
-`5)` Identifique las etapas que forman parte de un proyecto y describa en pocas palabras en qué consiste cada una.
+**`5)` Identifique las etapas que forman parte de un proyecto y describa en pocas palabras en qué consiste cada una.**
 
-`6)` Explique cómo se pueden clasificar los proyectos de software
+- **Definir el proyecto**: establecer objetivos y límites.  
+- **Desarrollar un plan detallado**: organizar tareas, recursos y tiempos.  
+- **Ejecución del proyecto**: realizar el trabajo planificado.  
+- **Monitorear/Controlar**: seguir el avance y ajustar si es necesario.  
+- **Terminación/Cierre**: concluir actividades y entregar el producto final.
 
-`7)` Enumere y ejemplifique causas de fracaso de proyectos
+---
 
-`8)` Revise y compare las definiciones de administración de proyectos vistas en clase y otras disponibles en la Web (debe citar las definiciones utilizadas). En base a esas definiciones, se pide:
+**`6)` Explique cómo se pueden clasificar los proyectos de software**
 
-- Identificar aspectos comunes.
-- Identificar aspectos mencionados que considere importantes y justificar.
-- Enumerar ventajas de una buena administración de proyectos.
+- **Duración**: tiempo que llevará completarlo.  
+- **Riesgo**: probabilidad de que surjan problemas.  
+- **Complejidad**: dificultad técnica o de gestión.  
+- **Valor comercial**: beneficio que aporta.  
+- **Costo**: recursos económicos requeridos.
 
-`9` Cite los desafíos de la administración de proyectos. Indique qué puede hacerse para
-cumplirlos
+--
 
-`10` Mencione y explique con sus palabras cómo es el ciclo de vida de un proyecto.
+**`7)` Enumere y ejemplifique causas de fracaso de proyectos**
 
-`11` Explique qué es un programa. Mencione diferencias entre programas y proyectos.
+- **No prestar atención al caso de negocio** (ej.: desarrollar algo sin justificar su necesidad).  
+- **Definición y medición pobre de entregables** (ej.: no aclarar qué debe entregar el proyecto).  
+- **Inadecuada planificación y coordinación de recursos** (ej.: falta de asignación clara de tareas).  
+- **Pobre estimación de duración y costos** (ej.: subestimar el tiempo necesario).  
+- **Falta de comunicación y compromiso de interesados** (ej.: usuarios que no participan en decisiones).  
+- **Falta de control de calidad y de avance** (ej.: no detectar errores a tiempo).
 
-`12` ¿Cuál es la relación entre la administración de programas y la administración de
-proyectos?
+---
+
+**`8)` Revise y compare las definiciones de administración de proyectos vistas en clase y otras disponibles en la Web (debe citar las definiciones utilizadas). En base a esas definiciones, se pide:**
+
+- **Identificar aspectos comunes.**
+- **Identificar aspectos mencionados que considere importantes y justificar.**
+- **Enumerar ventajas de una buena administración de proyectos.**
+
+Definiciones vistas:
+
+- **PRINCE2**: administrar un proyecto es planificar, delegar, seguir y controlar todos los aspectos, motivando al equipo para lograr los objetivos en tiempo, costo, calidad, alcance, beneficios y riesgos.  
+- **PMI**: es aplicar conocimientos, habilidades, herramientas y técnicas para cumplir requisitos del proyecto.  
+- **METHOD123**: es usar habilidades, herramientas y procesos para llevar a cabo un proyecto exitosamente.
+
+**Aspectos comunes:**  
+- Planificación, control y seguimiento.  
+- Cumplimiento de tiempo, costo, calidad y alcance.  
+- Importancia de motivar y gestionar al equipo.
+
+**Aspectos importantes:**  
+- **Motivación de participantes** (PRINCE2): sin un equipo comprometido, el proyecto difícilmente se completa bien.  
+- **Aplicar procesos sistemáticos** (PMI): garantiza orden y seguimiento.  
+
+**Ventajas de una buena administración:**  
+- Mejor uso de recursos.  
+- Cumplimiento de plazos y presupuestos.  
+- Mayor calidad del producto final.  
+- Mayor satisfacción de los interesados.
+
+---
+
+**`9` Cite los desafíos de la administración de proyectos. Indique qué puede hacerse para cumplirlos**
+
+Desafíos:
+
+- Alto nivel de innovación.  
+- Complejidad y requisitos ambiguos.  
+- Falta de competencias y herramientas maduras.  
+- Cumplimiento de plazos y regulaciones.  
+- Tratar con proveedores y altas autoridades.  
+- Administrar equipos distribuidos y multiculturales.
+
+**Para cumplirlos:**  
+- Capacitar al equipo continuamente.  
+- Usar herramientas modernas de gestión.  
+- Mejorar la comunicación y coordinación.  
+- Planificar bien los riesgos y adaptarse rápido a cambios.
+
+---
+
+**`10` Mencione y explique con sus palabras cómo es el ciclo de vida de un proyecto.**
+
+- **Definir**: fijar los objetivos y qué se va a hacer.  
+- **Planificar**: organizar tareas, recursos, tiempos y costos.  
+- **Ejecutar**: realizar las actividades planificadas.  
+- **Monitorear/Controlar**: supervisar el avance y corregir desvíos.  
+- **Terminar/Cerrar**: finalizar el trabajo y entregar el resultado.
+
+---
+
+**`11` Explique qué es un programa. Mencione diferencias entre programas y proyectos.**
+
+Un **programa** es un **conjunto de proyectos relacionados** que se gestionan de forma coordinada para lograr beneficios mayores que manejándolos por separado.
+
+**Diferencias**:  
+- **Proyectos**: tienen un alcance limitado, buscan cumplir entregables concretos en tiempo, costo y calidad.
+- **Programas**: tienen un alcance más amplio, aceptan cambios y miden el éxito en beneficios y retorno de inversión (ROI).
+
+---
+
+**`12` ¿Cuál es la relación entre la administración de programas y la administración de proyectos?**
+
+La administración de programas y de proyectos son **complementarias**:  
+
+La administración de programas **coordina** e **integra** varios proyectos para lograr beneficios estratégicos, mientras que la administración de proyectos **gestiona cada proyecto individualmente** para cumplir objetivos específicos.
 
 ---
 
 ## Parte II: Actividades y tareas de proyectos
 
-`13)` Explique qué es Work Breakdown Structure (WBS) y cómo se construye
+**`13)` Explique qué es Work Breakdown Structure (WBS) y cómo se construye**
 
-`14)` Mencione los distintos usos del WBS en la administración de proyectos.
+El **WBS** es una **descomposición jerárquica** del trabajo del proyecto en actividades y tareas.
 
-`15)` Indique cuáles son las características que deben tener las actividades para
-considerarse completas. Explique.
+**Cómo se construye**:
+- Se parte del objetivo general y se va descomponiendo en actividades y luego en tareas.  
+- Se puede hacer de forma **top-down** (de arriba hacia abajo, en equipo o sub-equipos) o **bottom-up** (partiendo de ideas sueltas y organizándolas).
 
-`16)` Explique qué es la duración de una actividad. Indique cuál es la diferencia con el esfuerzo de trabajo.
+---
 
-`17)` ¿Cuáles son las causas de variación en la duración de una actividad?
+**`14)` Mencione los distintos usos del WBS en la administración de proyectos.**
 
-`18)` Mencione las distintas técnicas para estimar esfuerzo.
+- **Diseñar y planificar** el trabajo del proyecto.  
+- **Diseñar la arquitectura** del proyecto.  
+- **Estimar esfuerzo, tiempos y recursos** en el último nivel.  
+- **Informar el estado del proyecto** mostrando el avance.
+
+---
+
+**`15)` Indique cuáles son las características que deben tener las actividades para considerarse completas. Explique.**
+
+- **Estado medible**: se puede evaluar su progreso.  
+- **Acotada**: tiene fecha de inicio y fin.  
+- **Producir un entregable**: resultado visible.  
+- **Tiempo y costo medibles**: fácilmente estimables.  
+- **Duración aceptable**: preferentemente menor a 10 días.  
+- **Independiente**: puede realizarse sin depender de otras actividades.
+
+---
+
+**`16)` Explique qué es la duración de una actividad. Indique cuál es la diferencia con el esfuerzo de trabajo.**
+
+La **duración** es el **tiempo total en días laborables** que toma completar una actividad.  
+El **esfuerzo de trabajo** es la **cantidad real de horas** necesarias para realizarla.  
+
+**Diferencia**: la duración mide el tiempo calendario; el esfuerzo mide las horas efectivas de trabajo.
+
+---
+
+**`17)` ¿Cuáles son las causas de variación en la duración de una actividad?**
+
+- **Variación en los perfiles** de las personas asignadas.  
+- **Eventos inesperados** (ej.: fallas, enfermedades).  
+- **Eficiencia del tiempo de trabajo** (interrupciones, falta de foco).  
+- **Errores o malentendidos** sobre las tareas a realizar.
+
+---
+
+**`18)` Mencione las distintas técnicas para estimar esfuerzo.**
+
+- Similitud con otras actividades.  
+- Datos históricos.  
+- Juicio experto.  
+- Técnica Delphi.  
+- Técnica de tres puntos.  
+- Técnica Delphi de banda ancha.
 
 ---
 
 ## Parte III: Costos
 
-`19)` Explique a qué se hace referencia con el término “Estimación de costos”.
+**`19)` Explique a qué se hace referencia con el término “Estimación de costos”.**
+
+La **estimación de costos** es la **predicción del tiempo, esfuerzo y perfiles de recursos humanos** necesarios para construir un sistema de software.  
+Muchas veces se usa como sinónimo de **estimación de esfuerzo**.
+
+---
 
 `20)` ¿Cuáles son las técnicas de estimación y para qué se utilizan?
+
+- **Opinión experta**: usar experiencia de personal senior.  
+- **Analogía**: comparar con proyectos anteriores.  
+- **Descomposición**: dividir en componentes o tareas.  
+- **Modelos**: usar fórmulas matemáticas para estimar esfuerzo.
+
+Se utilizan para **prever recursos, costos y tiempos** de un proyecto antes de ejecutarlo.
+
+--
 
 `21)` El modelo COCOMO original es una colección de tres modelos: 
 
