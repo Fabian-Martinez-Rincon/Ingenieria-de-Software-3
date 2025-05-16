@@ -6,6 +6,8 @@
 
 Un proyecto es una **secuencia de actividades únicas, conectadas y complejas** que tiene como objetivo entregar un producto o resultado en **un tiempo limitado, dentro de un presupuesto y cumpliendo especificaciones**.
 
+<details><summary>Respuesta</summary></details>
+
 ---
 
 **`2)` Indique cuál es el trabajo de un líder de proyecto. Nombre al menos cinco tareas del mismo.**
@@ -18,6 +20,8 @@ El líder de proyecto **coordina el trabajo**, **motiva al equipo**, **gestiona 
 - Comunicar y reportar a los interesados.  
 - Asegurar la calidad del proyecto.
 
+<details><summary>Respuesta</summary></details>
+
 ---
 
 **`3)` Enumere y explique cuáles son los parámetros o restricciones que afectan a los proyectos.**
@@ -28,12 +32,16 @@ El líder de proyecto **coordina el trabajo**, **motiva al equipo**, **gestiona 
 - **Tiempo**: el plazo para terminar el proyecto.  
 - **Recursos**: personas, equipos o materiales necesarios, que son limitados.
 
+<details><summary>Respuesta</summary></details>
+
 ---
 
 **`4)` ¿En qué consiste el “Triángulo de alcance”? Explique el concepto**
 
 El “**Triángulo de alcance**” muestra que **alcance, calidad, costo, tiempo y recursos** están interrelacionados:  
 un cambio en uno de ellos **impacta a los demás**, y el proyecto debe mantenerse en equilibrio para ser exitoso.
+
+<details><summary>Respuesta</summary></details>
 
 ---
 
@@ -45,6 +53,8 @@ un cambio en uno de ellos **impacta a los demás**, y el proyecto debe manteners
 - **Monitorear/Controlar**: seguir el avance y ajustar si es necesario.  
 - **Terminación/Cierre**: concluir actividades y entregar el producto final.
 
+<details><summary>Respuesta</summary></details>
+
 ---
 
 **`6)` Explique cómo se pueden clasificar los proyectos de software**
@@ -55,7 +65,9 @@ un cambio en uno de ellos **impacta a los demás**, y el proyecto debe manteners
 - **Valor comercial**: beneficio que aporta.  
 - **Costo**: recursos económicos requeridos.
 
---
+<details><summary>Respuesta</summary></details>
+
+---
 
 **`7)` Enumere y ejemplifique causas de fracaso de proyectos**
 
@@ -66,6 +78,8 @@ un cambio en uno de ellos **impacta a los demás**, y el proyecto debe manteners
 - **Falta de comunicación y compromiso de interesados** (ej.: usuarios que no participan en decisiones).  
 - **Falta de control de calidad y de avance** (ej.: no detectar errores a tiempo).
 
+<details><summary>Respuesta</summary></details>
+
 ---
 
 **`8)` Revise y compare las definiciones de administración de proyectos vistas en clase y otras disponibles en la Web (debe citar las definiciones utilizadas). En base a esas definiciones, se pide:**
@@ -74,7 +88,9 @@ un cambio en uno de ellos **impacta a los demás**, y el proyecto debe manteners
 - **Identificar aspectos mencionados que considere importantes y justificar.**
 - **Enumerar ventajas de una buena administración de proyectos.**
 
-Definiciones vistas:
+<details><summary>Respuesta</summary></details>
+
+
 
 - **PRINCE2**: administrar un proyecto es planificar, delegar, seguir y controlar todos los aspectos, motivando al equipo para lograr los objetivos en tiempo, costo, calidad, alcance, beneficios y riesgos.  
 - **PMI**: es aplicar conocimientos, habilidades, herramientas y técnicas para cumplir requisitos del proyecto.  
@@ -99,6 +115,8 @@ Definiciones vistas:
 
 **`9` Cite los desafíos de la administración de proyectos. Indique qué puede hacerse para cumplirlos**
 
+<details><summary>Respuesta</summary></details>
+
 Desafíos:
 
 - Alto nivel de innovación.  
@@ -118,6 +136,8 @@ Desafíos:
 
 **`10` Mencione y explique con sus palabras cómo es el ciclo de vida de un proyecto.**
 
+<details><summary>Respuesta</summary></details>
+
 - **Definir**: fijar los objetivos y qué se va a hacer.  
 - **Planificar**: organizar tareas, recursos, tiempos y costos.  
 - **Ejecutar**: realizar las actividades planificadas.  
@@ -127,6 +147,8 @@ Desafíos:
 ---
 
 **`11` Explique qué es un programa. Mencione diferencias entre programas y proyectos.**
+
+<details><summary>Respuesta</summary></details>
 
 Un **programa** es un **conjunto de proyectos relacionados** que se gestionan de forma coordinada para lograr beneficios mayores que manejándolos por separado.
 
@@ -138,6 +160,8 @@ Un **programa** es un **conjunto de proyectos relacionados** que se gestionan de
 
 **`12` ¿Cuál es la relación entre la administración de programas y la administración de proyectos?**
 
+<details><summary>Respuesta</summary></details>
+
 La administración de programas y de proyectos son **complementarias**:  
 
 La administración de programas **coordina** e **integra** varios proyectos para lograr beneficios estratégicos, mientras que la administración de proyectos **gestiona cada proyecto individualmente** para cumplir objetivos específicos.
@@ -147,6 +171,8 @@ La administración de programas **coordina** e **integra** varios proyectos para
 ## Parte II: Actividades y tareas de proyectos
 
 **`13)` Explique qué es Work Breakdown Structure (WBS) y cómo se construye**
+
+<details><summary>Respuesta</summary></details>
 
 El **WBS** es una **descomposición jerárquica** del trabajo del proyecto en actividades y tareas.
 
@@ -158,6 +184,8 @@ El **WBS** es una **descomposición jerárquica** del trabajo del proyecto en ac
 
 **`14)` Mencione los distintos usos del WBS en la administración de proyectos.**
 
+<details><summary>Respuesta</summary></details>
+
 - **Diseñar y planificar** el trabajo del proyecto.  
 - **Diseñar la arquitectura** del proyecto.  
 - **Estimar esfuerzo, tiempos y recursos** en el último nivel.  
@@ -166,6 +194,8 @@ El **WBS** es una **descomposición jerárquica** del trabajo del proyecto en ac
 ---
 
 **`15)` Indique cuáles son las características que deben tener las actividades para considerarse completas. Explique.**
+
+<details><summary>Respuesta</summary></details>
 
 - **Estado medible**: se puede evaluar su progreso.  
 - **Acotada**: tiene fecha de inicio y fin.  
@@ -178,6 +208,8 @@ El **WBS** es una **descomposición jerárquica** del trabajo del proyecto en ac
 
 **`16)` Explique qué es la duración de una actividad. Indique cuál es la diferencia con el esfuerzo de trabajo.**
 
+<details><summary>Respuesta</summary></details>
+
 La **duración** es el **tiempo total en días laborables** que toma completar una actividad.  
 El **esfuerzo de trabajo** es la **cantidad real de horas** necesarias para realizarla.  
 
@@ -187,6 +219,8 @@ El **esfuerzo de trabajo** es la **cantidad real de horas** necesarias para real
 
 **`17)` ¿Cuáles son las causas de variación en la duración de una actividad?**
 
+<details><summary>Respuesta</summary></details>
+
 - **Variación en los perfiles** de las personas asignadas.  
 - **Eventos inesperados** (ej.: fallas, enfermedades).  
 - **Eficiencia del tiempo de trabajo** (interrupciones, falta de foco).  
@@ -195,6 +229,8 @@ El **esfuerzo de trabajo** es la **cantidad real de horas** necesarias para real
 ---
 
 **`18)` Mencione las distintas técnicas para estimar esfuerzo.**
+
+<details><summary>Respuesta</summary></details>
 
 - Similitud con otras actividades.  
 - Datos históricos.  
@@ -209,12 +245,16 @@ El **esfuerzo de trabajo** es la **cantidad real de horas** necesarias para real
 
 **`19)` Explique a qué se hace referencia con el término “Estimación de costos”.**
 
+<details><summary>Respuesta</summary></details>
+
 La **estimación de costos** es la **predicción del tiempo, esfuerzo y perfiles de recursos humanos** necesarios para construir un sistema de software.  
 Muchas veces se usa como sinónimo de **estimación de esfuerzo**.
 
 ---
 
-`20)` ¿Cuáles son las técnicas de estimación y para qué se utilizan?
+**`20)` ¿Cuáles son las técnicas de estimación y para qué se utilizan?**
+
+<details><summary>Respuesta</summary></details>
 
 - **Opinión experta**: usar experiencia de personal senior.  
 - **Analogía**: comparar con proyectos anteriores.  
@@ -223,47 +263,98 @@ Muchas veces se usa como sinónimo de **estimación de esfuerzo**.
 
 Se utilizan para **prever recursos, costos y tiempos** de un proyecto antes de ejecutarlo.
 
---
+---
 
-`21)` El modelo COCOMO original es una colección de tres modelos: 
+**`21)` El modelo COCOMO original es una colección de tres modelos:**
 
-- `a)` Básico
-- `b)` Intermedio
-- `c)` Avanzado o detallado
+<details><summary>Respuesta</summary></details>
 
-Explique las diferencias entre estos modelos.
+Diferencias:
+
+- **Básico**: se usa cuando **se conoce poco** del proyecto; esfuerzo estimado con fórmula simple.  
+- **Intermedio**: se aplica **luego de definir requerimientos**; ajusta el esfuerzo usando conductores de costos.  
+- **Avanzado o detallado**: se usa **tras el diseño**; estima esfuerzo **por componente** y luego suma todo.
+
+---
 
 `22)` Los modelos calculan el esfuerzo requerido `E` a través de una fórmula de la forma:
 `E` = `a` x `S`^`b` x `F` , y la duración estimada a través de la fórmula: `D` = `c` x `E`^`d`
 
-- `a)` ¿Qué valor toma F para el modelo básico?
-- `b)` Describir brevemente en función de qué tipos de variables se calcula el factor de ajuste F en los otros dos modelos.
-- `c)` Indicar cómo varían los valores de `a` y `b`, y `c` y `d` en ambas fórmulas de acuerdo al modo utilizado.
-- `d)` Describir las características generales de sistemas que apliquen a cada uno de estos modos:
-    - Orgánico
-    - Semi-embebido
-    - Embebido
+`a)` ¿Qué valor toma F para el modelo básico?
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`b)` Describir brevemente en función de qué tipos de variables se calcula el factor de ajuste F en los otros dos modelos.
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`c)` Indicar cómo varían los valores de `a` y `b`, y `c` y `d` en ambas fórmulas de acuerdo al modo utilizado.
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`d)` Describir las características generales de sistemas que apliquen a cada uno de estos modos:
+- Orgánico
+- Semi-embebido
+- Embebido
 - Dar ejemplos.
 
-`23)` ¿Cuáles son los principales objetivos considerados en el desarrollo del modelo COCOMO 2.0? Explique diferencias con la versión original.
+<details><summary>Respuesta</summary></details>
 
-`24)` Explique qué es la economía de escala. De al menos dos ejemplos.
+---
+
+**`23)` ¿Cuáles son los principales objetivos considerados en el desarrollo del modelo COCOMO 2.0? Explique diferencias con la versión original.**
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+**`24)` Explique qué es la economía de escala. De al menos dos ejemplos.**
+
+<details><summary>Respuesta</summary></details>
 
 ---
 
 ## Parte IV: Gestión de proyectos
 
-`25)` Explicar qué es la gestión de los beneficios y en qué consiste su enfoque.
+**`25)` Explicar qué es la gestión de los beneficios y en qué consiste su enfoque.**
 
-`26)` ¿Cuáles son las características principales de la gestión de los interesados?
+<details><summary>Respuesta</summary></details>
 
-`27)` Indicar cuáles son los objetivos de la gestión de los interesados y a qué preguntas responde.
+---
 
-`28)` ¿De qué forma se representa la identificación de los interesados y sus intereses? Ejemplifique.
+**`26)` ¿Cuáles son las características principales de la gestión de los interesados?**
 
-`29)` Indique qué datos se incluyen al momento de crear una matriz de impacto y qué aporta el análisis de los mismos.
+<details><summary>Respuesta</summary></details>
 
-`30` ¿Qué datos tiene un plan de comunicación dentro de la gestión de los interesados? Mencione posibles canales de comunicación.
+---
+
+**`27)` Indicar cuáles son los objetivos de la gestión de los interesados y a qué preguntas responde.**
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+**`28)` ¿De qué forma se representa la identificación de los interesados y sus intereses? Ejemplifique.**
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+**`29)` Indique qué datos se incluyen al momento de crear una matriz de impacto y qué aporta el análisis de los mismos.**
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+**`30` ¿Qué datos tiene un plan de comunicación dentro de la gestión de los interesados? Mencione posibles canales de comunicación.**
+
+<details><summary>Respuesta</summary></details>
 
 ---
 
@@ -277,15 +368,34 @@ Explique las diferencias entre estos modelos.
 
 Para cada proyecto se pide:
 
-- `a)` Clasificarlo y justificar dicha clasificación.
-- `b)` Identificar al menos 3 tareas que sería necesario ejecutar en cada proyecto – analizar si están conectadas y en caso afirmativo, explicar cómo.
-- `c)` Explicar dos situaciones que puedan hacer fracasar el proyecto.
+`a)` Clasificarlo y justificar dicha clasificación.
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`b)` Identificar al menos 3 tareas que sería necesario ejecutar en cada proyecto – analizar si están conectadas y en caso afirmativo, explicar cómo.
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`c)` Explicar dos situaciones que puedan hacer fracasar el proyecto.
+
+<details><summary>Respuesta</summary></details>
 
 ---
 
 `32)` Elegir una organización y describir a qué se dedica (cuál es su misión). Formular un objetivo estratégico para el cual se necesite la ejecución de un programa y luego:
-- `a)` Identificar un programa para la implementación del objetivo estratégico que incluya al menos tres proyectos.
-- `b)` Explicar por qué los proyectos forman parte del programa
+`a)` Identificar un programa para la implementación del objetivo estratégico que incluya al menos tres proyectos.
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`b)` Explicar por qué los proyectos forman parte del programa
+
+<details><summary>Respuesta</summary></details>
 
 ---
 
@@ -301,10 +411,32 @@ El sistema requiere:
 - Ofrecer incentivos a los que se inscriben en los programas y tienen un buen desenvolvimiento en ellos (dejando de fumar, ganando competencias, etc.)
 
 Para este proyecto se busca formular una estrategia de gestión de los interesados con:
-- `a)` Identificación de al menos tres grupos de interesados.
-- `b)` Creación del mapa de partes interesadas.
-- `c)` Creación de la matriz de impacto de las partes interesadas.
-- `d)` Elaboración de un plan de comunicación.
-- `e)` Definición de los canales de comunicación.
+`a)` Identificación de al menos tres grupos de interesados.
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`b)` Creación del mapa de partes interesadas.
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`c)` Creación de la matriz de impacto de las partes interesadas.
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`d)` Elaboración de un plan de comunicación.
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+`e)` Definición de los canales de comunicación.
+
+<details><summary>Respuesta</summary></details>
 
 ---
