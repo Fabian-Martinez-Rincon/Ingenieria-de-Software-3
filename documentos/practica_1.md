@@ -4,9 +4,10 @@
 
 **`1)` Explique con sus palabras en qué consiste un proyecto**
 
-Un proyecto es una **secuencia de actividades únicas, conectadas y complejas** que tiene como objetivo entregar un producto o resultado en **un tiempo limitado, dentro de un presupuesto y cumpliendo especificaciones**.
+<details><summary>Respuesta</summary>
 
-<details><summary>Respuesta</summary></details>
+Un proyecto es una **secuencia de actividades únicas, conectadas y complejas** que tiene como objetivo entregar un producto o resultado en **un tiempo limitado, dentro de un presupuesto y cumpliendo especificaciones**.
+</details>
 
 ---
 
