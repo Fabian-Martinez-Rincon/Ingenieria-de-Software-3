@@ -3,7 +3,7 @@
 ## Parte 1 Conceptos Generales
 
 **`1)` Explique con sus palabras en qué consiste un proyecto**
-
+wwwwwwwwwwwwwwwwwwwwwwwwwwww
 <details><summary>Respuesta</summary>
 
 Un proyecto es una **secuencia de actividades únicas, conectadas y complejas** que tiene como objetivo entregar un producto o resultado en **un tiempo limitado, dentro de un presupuesto y cumpliendo especificaciones**.
