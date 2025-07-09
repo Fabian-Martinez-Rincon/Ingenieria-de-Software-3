@@ -39,9 +39,15 @@ Cualquier modificación que se realice en alguno de los vértices de este trián
 
 Este demuestra de forma gráfica la interdependencia entre los parámetros involucrados. 
 
-**¿Y el cuarto?**
+**¿Y el cuadro?**
 
 ![alt text](image-3.png)
+
+ChatGPT
+
+El **Triángulo de Alcance** representa las tres restricciones clave de un proyecto: **alcance y calidad**, **tiempo** y **costo**, influenciadas por los **recursos** disponibles. Estos elementos están interrelacionados: un cambio en uno impacta a los demás. Por ejemplo, aumentar el alcance implica más tiempo o más costo. El objetivo del líder del proyecto es mantenerlos en equilibrio para asegurar el éxito del proyecto.
+
+![alt text](image-12.png)
 
 </details>
 
@@ -59,32 +65,44 @@ Este demuestra de forma gráfica la interdependencia entre los parámetros invol
 <details><summary>Estrategia de gestión de los stakeholders</summary>
 
 VERDADERO
+
+Es un enfoque clave que define cómo se abordará la relación con cada stakeholder según su poder, interés e influencia. Permite diseñar acciones específicas para gestionar sus expectativas y participación en el proyecto.
 </details>
 
 
 <details><summary>Matriz de impacto</summary>
 
 VERDADERO
+
+Esta herramienta ayuda a evaluar el nivel de impacto que tiene cada stakeholder sobre el proyecto y viceversa. Facilita priorizar a quién prestar más atención y con qué estrategia actuar (por ejemplo: informar, involucrar, monitorear).
 </details>
 
 <details><summary>Mantener el interés y el compromiso de los stakeholders</summary>
 
 VERDADERO
+
+Es un objetivo central en la gestión de stakeholders. La participación activa de los interesados aumenta las probabilidades de éxito del proyecto. Mantener su compromiso requiere planificación, comunicación y seguimiento continuo.
 </details>
 
 <details><summary>Mapa de los stakeholders</summary>
 
 VERDADERO
+
+Es una representación visual que clasifica a los stakeholders según su poder e interés, ayudando a tomar decisiones estratégicas sobre cómo gestionarlos. Es una de las herramientas más comunes en el análisis inicial.
 </details>
 
 <details><summary>Analizar los stakeholders</summary>
 
 FALSO
+
+Es incorrecto considerarlo un enfoque en sí mismo, aunque el análisis es una etapa previa a la gestión. Analizar implica identificar quiénes son, qué esperan y cómo pueden influir, pero no constituye un enfoque de gestión directamente, sino una actividad preparatoria.
 </details>
 
 <details><summary>Canales de comunicación</summary>
 
 VERDADERO
+
+Definir canales adecuados (reuniones, reportes, correos, etc.) es esencial para gestionar la relación con los stakeholders. La comunicación efectiva permite mantener informados a los interesados y atender sus necesidades.
 </details>
 
 ---
