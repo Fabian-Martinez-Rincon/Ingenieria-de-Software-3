@@ -16,6 +16,11 @@
     - [1) Administración de Proyectos](#1-administración-de-proyectos-1)
     - [2. Calidad de Software](#2-calidad-de-software-1)
     - [3. Auditoría de Sistemas](#3-auditoría-de-sistemas-1)
+- [Segunda Fecha 2022](#segunda-fecha-2022)
+  - [1) Administración de Proyectos](#1-administración-de-proyectos-2)
+  - [2. Calidad de Software](#2-calidad-de-software-2)
+  - [3. Auditoria de Sistemas](#3-auditoria-de-sistemas)
+  - [4. Sistemas Colaborativos](#4-sistemas-colaborativos)
 
   
 
@@ -446,7 +451,7 @@ Antes de redactar el informe se deben tener en claro cuáles son los objetivos d
 # Segunda Fecha 2022
 
 
-## **1. Administración de Proyectos**
+## **1) Administración de Proyectos**
 
 **a. Elija dos métodos de estimación de esfuerzo vistos en la materia y describa de qué forma son llevados a cabo.**
 
@@ -465,12 +470,71 @@ Antes de redactar el informe se deben tener en claro cuáles son los objetivos d
 
 ---
 
-## **2. Calidad de Software**
+## **2) Calidad de Software**
 
 **a. Describa el concepto de “Calidad de Procesos de Software”, mencione los modelos de calidad y formas de evaluación vistas en la materia.**
 
-**b. Explique cómo aplicaría la ISO 9001 a un proceso de software.**
+---
 
+**b. Explique cómo aplicaría la ISO 9001 a un proceso de software.**
 
 ---
 
+**c. Las siguientes métricas para la características Usabilidad han sido extraidas de la norma ISO/IEC 9126-2**
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Metric name</th>
+      <th>Purpose of the metric</th>
+      <th>Method of application</th>
+      <th>Measurement, formula and data element computations</th>
+      <th>Interpretation of measured value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Effectiveness of user documentation</td>
+      <td>What proportion of functions can be used correctly after reading the documentation?</td>
+      <td>Count the number of functions used correctly after reading the documentation and compare with the total number of functions.</td>
+      <td>
+        X = A / B<br>
+        A = No. of functions that can be used<br>
+        B = Total of functions provided
+      </td>
+      <td>0 &lt;= X &lt;= 1<br>The closer to 1 is the better.</td>
+    </tr>
+    <tr>
+      <td>Help frequency</td>
+      <td>How frequently does a user have to access help to learn operation to complete his/her work task?</td>
+      <td>Count the number of cases that a user accesses help to complete his/her task.</td>
+      <td>
+        X = A<br>
+        A = No. of accesses to help until a user completes his/her task.
+      </td>
+      <td>0 &lt;= X<br>The closer to 0 is the better.</td>
+    </tr>
+  </tbody>
+</table>
+
+**i. Explique de qué forma se pueden combinar las métricas 'Effectivennes of user documentation' y 'Help frequency'**
+
+**ii. Explique qué debería hacer en el caso de querer crear una nueva métrica para la característica Usabilidad**
+
+---
+
+## 3) Auditoria de Sistemas
+
+**a. Defina que es una "Auditoria de Sistemas de Información"**
+
+---
+
+**b. Explique las diferencias entre control preventivo, control detectivo y control correctivo. Dé un ejemplo para cada tipo.**
+
+---
+
+**c. Explique dos características que diferencien entre un abuso informático y otro tipo de fraude comercial.**
+
+
+## **4. Sistemas Colaborativos**
+**a. Explique qué son los sistemas colaborativos y dé ejemplos de 3 tipos de sistemas distintos.**
