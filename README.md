@@ -159,3 +159,150 @@ Para aplicar la ISO 9001 a un proceso de software hay que usar las directrices d
 </details>
 
 ---
+
+**C) Clasifique las siguientes características del modelo de calidad de datos ISO/IEC 25012 considerando los puntos de vista.**
+
+<details><summary>Imagen Parcial (No mirar)</summary>
+
+![alt text](image-5.png)
+
+</details>
+
+<details><summary>Exactitud:</summary>
+
+**INHERENTE** ✔
+</details> 
+
+<details><summary>Completitud:</summary>
+
+**INHERENTE** ✔
+</details> 
+
+<details><summary>Disponibilidad:</summary>
+
+**DEPENDIENTE DEL SISTEMA** ✔
+</details> 
+
+<details><summary>Credibilidad:</summary>
+
+**INHERENTE** ✔
+</details> 
+
+---
+
+**D) Sistema de Gestión de la Calidad (SGC)**
+
+<details><summary>Imagen Parcial</summary>
+
+![alt text](image-6.png)
+</details>
+
+**i. Indique cuáles de las siguientes son características del Alcance del SGC (A) y cuáles de los Objetivos del SGC (O)**
+
+
+<details><summary>Ser comparables</summary>O ✔</details>
+<details><summary>Ser medibles</summary>O ✔</details>
+<details><summary>Indicar normas de certificación</summary>A ✔</details>
+<details><summary>Ser específicos</summary>A✔</details>
+<details><summary>Ser realistas</summary>O ✔</details>
+<details><summary>Indicar estado actual</summary>O ✔</details>
+
+**ii. Seleccione uno de los siguientes procesos principales de desarrollo de una empresa y defina:**
+
+**ANÁLISIS → DISEÑO → IMPLEMENTACIÓN → PRUEBAS → MANTENIMIENTO**
+
+**a. Alcance del SGC:**
+
+<details><summary>Respuesta</summary>
+
+*Diseño funcional y técnico de los productos desde la recepción de los requerimientos hasta la entrega de los prototipos, excluyendo la implementación, pruebas y mantenimiento.*
+
+</details>
+
+**b. Dos objetivos del SGC:**
+
+<details><summary>Respuesta</summary>
+
+1. *Reducir el tiempo de diseño de los prototipos en un 15% en relación al último cuatrimestre del 2023, en un período de 3 meses.*
+2. *“Mejorar el ratio de aceptación de los prototipos en un 20% en relación con los prototipos entregados durante el último semestre del 2024 en los próximos 6 meses.”*
+
+</details>
+
+---
+
+
+## **3. Auditoría de Sistemas**
+
+**A) Defina, con sus palabras, qué es una “Auditoría de Sistemas de Información”. Mencione cuáles son los cuatro objetivos.**
+
+<details><summary>Respuesta</summary>
+
+La Auditoría de Sistemas de Información es el proceso sistemático y planificado mediante el cual se recolecta, analiza y evalúa evidencia de sistemas de información de una organización con el propósito de preservar los activos, usar los recursos con eficiencia, mantener la integridad de los datos y alcanzar los objetivos estratégicos con eficacia.
+
+![alt text](image-7.png)
+
+</details>
+
+---
+
+**B) Indique cuáles de los siguientes son tipos de riesgos de auditoría.**
+
+<details><summary>Imagen Parcial (No mirar)</summary>
+
+![alt text](image-8.png)
+
+</details>
+
+<details><summary>Riesgo de detección</summary>SI</details> 
+<details><summary>Riesgo preventivo</summary>NO</details>
+<details><summary>Riesgo de contratación</summary>NO</details>
+<details><summary>Riesgo deseado</summary>NO</details>
+<details><summary>Riesgo inherente</summary>SI</details>
+
+---
+
+**C) Indique de qué tipo de opinión de auditoría se trata en cada uno de los siguientes casos**
+
+<details><summary>Imagen Parcial (No mirar)</summary>
+
+![alt text](image-9.png)
+
+</details>
+
+<details><summary>Se concluye que ocurrieron pérdidas materiales pero las cantidades no son considerables: </summary>CON CALIFICACIÓN ✔</details>
+<details><summary>No puede emitirse una opinión en base al trabajo realizado:</summary>EXCUSADA ✔</details>
+<details><summary>Se considera que no han ocurrido pérdidas materiales:</summary>SIN CALIFICACIÓN ✔</details>
+<details><summary>Se concluye que han ocurrido pérdidas materiales:</summary>ADVERSA ✔</details>
+
+---
+
+
+**D) Presente un ejemplo de cómo un mal procesamiento de información realizado por un sistema informático puede conducir a una toma de decisiones incorrecta para el gerente de una empresa vinculada a la industria hotelera**
+
+<details><summary>Respuesta</summary>
+Si un sistema informático automatizado para la industria hotelera calcula mal la cantidad de habitaciones disponibles de un hotel o asigna como libres habitaciones que no lo están, podría llevar a malas decisiones a la hora de por ejemplo contactarse con proveedores y pedir X insumos de limpieza o comida cuando se necesitan Y.
+
+![alt text](image-10.png)
+</details>
+
+---
+
+
+## **4. Interfaces No Tradicionales**
+
+<details><summary>Imagen Parcial (No mirar)</summary>
+
+![alt text](image-11.png)
+
+</details>
+
+**a. Indique cuáles de las siguientes son considerados ejemplos de “Interfaces hápticas”.**
+
+<details><summary>Pantalla táctil de un teléfono móvil</summary>NO</details>
+<details><summary>Guante que permite sentir objetos virtuales</summary>SI</details>
+<details><summary>Cinturón de navegación para personas ciegas</summary>SI</details>
+<details><summary>Casco de realidad virtual con vibración</summary>SI</details>
+<details><summary>Joystick de simulador de vuelo con fuerza de resistencia</summary>SI</details>
+<details><summary>Monitor de computadora</summary>NO</details>
+
+---
