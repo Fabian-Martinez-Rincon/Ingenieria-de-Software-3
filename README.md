@@ -441,3 +441,36 @@ Antes de redactar el informe se deben tener en claro cuáles son los objetivos d
 
 </details>
 
+---
+
+# Segunda Fecha 2022
+
+
+## **1. Administración de Proyectos**
+
+**a. Elija dos métodos de estimación de esfuerzo vistos en la materia y describa de qué forma son llevados a cabo.**
+
+---
+
+**b. Explique tres actividades que se lleven a cabo en la Gestión de Stakeholder.**
+
+---
+
+**c. PROGRAMAS Y PROYECTOS**
+
+**i. Explique cuáles son las características de los Programas y de los Proyectos. Mencione la relación entre ambos conceptos.**
+
+
+**ii. Elegir una organización y describir a qué se dedica. Formular un objetivo estratégico para el cual se necesite la ejecución de un programa e indique: cuál sería el mismo y qué proyectos incluiría.**
+
+---
+
+## **2. Calidad de Software**
+
+**a. Describa el concepto de “Calidad de Procesos de Software”, mencione los modelos de calidad y formas de evaluación vistas en la materia.**
+
+**b. Explique cómo aplicaría la ISO 9001 a un proceso de software.**
+
+
+---
+
