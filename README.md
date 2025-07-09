@@ -114,19 +114,48 @@ Definir canales adecuados (reuniones, reportes, correos, etc.) es esencial para 
 ![alt text](/images/image-1.png)
 </details>
 
+<details><summary>Proyecto</summary>
 
-<details><summary>Tienen un amplio alcance que puede cambiar para satisfacer las expectativas:</summary>**PROGRAMA**</details>
+“Es una secuencia de actividades única, complejas y conectadas que tienen un objetivo o propósito y que deben ser completadas en un tiempo específico, dentro del presupuesto y de acuerdo a las especificaciones.”
 
-<details><summary>Se realiza una planificación detallada para administrar la entrega de productos y servicios: </summary>**PROYECTO**</details>
+Es una organización temporal que busca entregar productos específicos, con alcance limitado y controlado por restricciones como tiempo, costo y calidad
 
-<details><summary>El estilo de liderazgo se centra en la gestión de las relaciones y la resolución de conflictos: </summary>**PROGRAMA**</details>
+</details>
 
-<details><summary>El éxito se mide por el presupuesto, el tiempo de entrega y los productos que cumplen las especificaciones: </summary>**PROYECTO**</details>
+<details><summary>Programa</summary>
+
+Es un grupo de proyectos relacionados que se gestionan de manera coordinada para obtener beneficios que no podrían alcanzarse si se gestionaran por separado.
+
+Tiene un alcance más amplio y flexible, y su éxito se mide en función de capacidades organizacionales o ROI (retorno de la inversión)
+
+</details>
+
+<details><summary>Tienen un amplio alcance que puede cambiar para satisfacer las expectativas:</summary>**PROGRAMA**
+
+Un programa tiene un alcance amplio y flexible, ya que busca alinearse con beneficios estratégicos que pueden evolucionar con el tiempo
+</details>
+
+<details><summary>Se realiza una planificación detallada para administrar la entrega de productos y servicios: </summary>**PROYECTO**
+
+En los proyectos, el gerente realiza una planificación minuciosa para asegurar la entrega puntual de entregables concretos
+</details>
+
+<details><summary>El estilo de liderazgo se centra en la gestión de las relaciones y la resolución de conflictos: </summary>**PROGRAMA**
+
+Los programas requieren un liderazgo más enfocado en gestionar relaciones complejas y conflictos entre proyectos, ya que coordinan múltiples equipos y objetivos
+</details>
+
+<details><summary>El éxito se mide por el presupuesto, el tiempo de entrega y los productos que cumplen las especificaciones: </summary>**PROYECTO**
+
+El éxito de un proyecto está definido por el cumplimiento de restricciones concretas: presupuesto, cronograma y calidad de los entregables
+</details>
 
 ---
 
 
 **D) Una empresa de seguros de vehículos cuenta con una planta de 50 empleados. En base a requerimientos de los directivos, se definió la ejecución de un proyecto para proveer un sistema de sueldos.**
+
+![alt text](image-13.png)
 
 <details><summary>Imagen Parcial (No mirar)</summary>
 
