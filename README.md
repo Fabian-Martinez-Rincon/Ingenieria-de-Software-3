@@ -7,10 +7,16 @@
 
 ---
 
-- [Primera Fecha 2025](#segunda-fecha-2025)
+- [Primera Fecha 2025](#primera-fecha-2025)
+  - [1) Administración de Proyectos](#1-administración-de-proyectos)
+  - [2) Calidad de Software](#2-calidad-de-software)
+  - [3. Auditoría de Sistemas](#3-auditoría-de-sistemas)
+  - [4. Interfaces No Tradicionales](#4-interfaces-no-tradicionales)
+- [Primera Fecha 2023](#primera-fecha-2023)
+  
 
 ---
-## Primera Fecha 2025
+# Primera Fecha 2025
 
 ## **1) Administración de Proyectos**
 
@@ -306,3 +312,128 @@ Si un sistema informático automatizado para la industria hotelera calcula mal l
 <details><summary>Monitor de computadora</summary>NO</details>
 
 ---
+
+# Primera Fecha 2023
+
+## **1) Administración de Proyectos**
+
+**a. Explique el concepto de “Triángulo de alcance”.**
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+**b. El modelo COCOMO original es una colección de tres modelos. Detalle cuáles son y explique las diferencias entre ellos.**
+
+<details><summary>Respuesta</summary></details>
+
+---
+
+**c. Indique de las siguientes cuáles son características de un programa y cuáles de un proyecto.**
+
+<details><summary>Tienen un amplio alcance que puede cambiar para satisfacer las expectativas: </summary>**PROGRAMA**</details>
+<details><summary>Se realiza una planificación detallada para administrar la entrega de productos y servicios: </summary>**PROYECTO**</details>
+<details><summary>El estilo de liderazgo se centra en la gestión de las relaciones y la resolución de conflictos: </summary>**PROGRAMA**</details>
+<details><summary>El éxito se mide por el presupuesto, el tiempo de entrega y los productos que cumplen las especificaciones: </summary>**PROYECTO**</details>
+
+---
+
+**d.** Una empresa de viajes cuenta con una planta de 30 empleados. En base a requerimientos de los directivos, se definió la ejecución de un proyecto para proveer un sistema de reservas.
+
+**i. Clasificar el proyecto según *Duración*, *Riesgo*, *Complejidad* y *Tecnología*. Justificar.**
+
+| **DURACIÓN** | **RIESGO** | **COMPLEJIDAD** | **TECNOLOGÍA** |
+| ------------ | ---------- | --------------- | -------------- |
+| -            | _          | _               | __             |
+
+**ii. Identifique un stakeholder del proyecto y elabore un plan de comunicación donde este sea QUIEN comunica.**
+
+---
+
+## **2. Calidad de Software**
+
+**A) Describa el concepto de “Calidad de Producto de Software”, mencione los modelos de calidad y formas de evaluación vistas en la materia.**
+
+---
+
+**B) Explique cómo aplicaría la ISO 9001 a un proceso de software.**
+
+---
+
+**C) Clasifique las siguientes características del modelo de calidad de datos ISO/IEC 25012 considerando los puntos de vista.**
+
+<details><summary>Exactitud:</summary> Inherente ✔</details>
+<details><summary>Completitud:</summary> Inherente y dependiente del sistema ✘</details>
+<details><summary>Disponibilidad:</summary> Dependiente del sistema ✔</details>
+<details><summary>Credibilidad:</summary> Inherente y dependiente del sistema ✘</details>
+
+---
+
+**D) La siguiente métrica para la característica Mantenibilidad ha sido extraída de la norma ISO/IEC 23023.**
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Metric name</th>
+      <th>Description</th>
+      <th>Measurement function</th>
+      <th>Interpretation of measured value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Coding rules conformity</td>
+      <td>How many modules conform to required coding rules?</td>
+      <td>
+        X = A / B<br>
+        A = Number of software modules conforming to coding rules for a specific system<br>
+        B = Number of software modules implemented
+      </td>
+      <td>
+        0 &lt; X ≤ 1<br>
+        The closer to 1 is the better.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+**i. Explique cómo combinaría 3 aplicaciones de esta métrica con distintas reglas de estilo para obtener un valor para la característica Mantenibilidad (en sus 4 niveles).**
+
+**ii. Explique qué debería hacer en el caso de querer crear una nueva métrica para esta característica.**
+
+---
+
+## **3. Auditoría de Sistemas**
+
+**a. Explique por qué un control en un sistema de información es un sistema.**
+
+---
+
+**b. Explique la diferencia entre Gobernanza y Administración de TI.**
+
+
+---
+
+**c. Indique de qué tipo de opinión de auditoría se trata en cada uno de los siguientes casos**
+
+<details><summary>Se concluyen que ocurrieron pérdidas materiales pero las cantidades no son considerables: </summary>Opinión Innerente X</details>
+<details><summary>No puede emitirse una opinión en base al trabajo realizado: </summary>Opinión excusada ✔</details>
+<details><summary>Se considera que no han ocurrido pérdidas materiales: </summary>Opinión sin calificación ✔</details>
+<details><summary>Se concluye que han ocurrido pérdidas materiales: </summary>Opinión con Clasificacion X</details>
+
+---
+
+**d. Suponga que usted debe auditar un proceso de software y recibe un plan de evaluación que no se encuentra del todo completo**
+
+<details><summary>i. Indique qué debería hacer en primera instancia, antes de comenzar con la auditoría</summary>
+Comunicarme con el cliente o empresa a auditar para completar el plan de evaluación teniendo en cuenta sus objetivos e intereses, yendo a la fuente.
+
+</details>
+
+<details><summary>ii. En base a lo obtenido en la auditoría, indique qué debería tener en cuenta para poder redactar un informe</summary>
+
+Antes de redactar el informe se deben tener en claro cuáles son los objetivos de la auditoría, cuáles fueron las acciones y hallazgos durante el proceso y qué se le recomienda se corrija, mejore ante los fallos y vulnerabilidades.
+
+</details>
+
