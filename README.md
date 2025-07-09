@@ -13,6 +13,10 @@
   - [3. Auditoría de Sistemas](#3-auditoría-de-sistemas)
   - [4. Interfaces No Tradicionales](#4-interfaces-no-tradicionales)
 - [Primera Fecha 2023](#primera-fecha-2023)
+    - [1) Administración de Proyectos](#1-administración-de-proyectos-1)
+    - [2. Calidad de Software](#2-calidad-de-software-1)
+    - [3. Auditoría de Sistemas](#3-auditoría-de-sistemas-1)
+
   
 
 ---
